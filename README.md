@@ -1,4 +1,4 @@
-## Employee Attrition Prediction AI Project - CESI EXIA 4th Year
+# Employee Attrition Prediction AI Project - CESI EXIA 4th Year
 
 This GitHub repository holds the work done during my fourth year of Computer Science studies at CESI EXIA School as part of an AI project focusing on employee attrition prediction using data wrangling and machine learning techniques. The project code is implemented in Jupyter Notebook.
 
